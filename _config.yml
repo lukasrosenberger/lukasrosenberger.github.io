@@ -11,4 +11,4 @@ avatar: ./assets/img/Lukas_Rosenberger_LMU.jpg
 #favicon_dark: ./assets/img/favicon-dark.png
 description: Lukas Rosenberger | Postdoctoral scholar at Northwestern University. Economist and Economic Historian
 #canonical: 
-theme: minimal-light
+theme: yaoyao-liu/minimal-light
