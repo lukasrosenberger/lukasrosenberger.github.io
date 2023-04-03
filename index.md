@@ -13,8 +13,6 @@ Bio: [[curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV
 Contact: [lukas.rosenberger(a)northwestern.edu](mailto:lukas.rosenberger@northwestern.edu)
 
 <!--
-In my dissertation, I tackle the question "Why isn't the whole world developed?" from the perspective of Europe: How did Europe become developed in the first place? In the context of France in the Enlightenment and Industrial Revolution, I establish novel facts which inform leading growth theories and big debates in economic history. 
-
 
 ## References
 
@@ -36,7 +34,6 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 ## Working Papers
 
 **The American Origin of the French Revolution**  
-  <br>
   &ensp; with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
   <br>
   &ensp; [[Draft April 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution.pdf)] [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
