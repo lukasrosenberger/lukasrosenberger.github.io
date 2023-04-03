@@ -103,19 +103,20 @@ papertitle {
 
 h1, h3, h4, h5, h6 {
   font-weight: 600;
-  color: #004700; // #043361 baseline #009440 lmu green
+  /* frenchroyalblue: rgb(62, 183, 240) darkblue #043361 LMU green #009440 */
+  /* color: #004700;   */
   margin:0 0 20px;
 }
 
 h2 {
-  color:#004700;
+  /* color:#004700; */
   margin:20px 0px 10px;
   font-size: 24px; //
 }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color:rgb(62, 183, 240); 
   }
 
   h2 {
@@ -135,6 +136,7 @@ h1 {
   font-size:28px;
 }
 
+/*
 a {
   color:#009440;
   text-decoration:none;
@@ -143,6 +145,7 @@ a {
 a:hover {
   color:#474748;
 }
+*/
 
 @media (prefers-color-scheme: dark) {
   a {
