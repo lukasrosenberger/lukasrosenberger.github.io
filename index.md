@@ -40,9 +40,8 @@ Contact: [lukas.rosenberger(a)northwestern.edu](mailto:lukas.rosenberger@northwe
   <details>   
   <summary>Abstract</summary>  
   France sent five thousand men to fight alongside George Washington's army in the American Revolutionary War. We show that the French combatants' exposure to the United States of America increased support for the French Revolution a decade later. French regions (départements) from which more American combatants originated had more revolts against feudal institutions, revolutionary societies, volunteers for the revolutionary army, and emigrants from the Old Regime's elite. To establish causality, we exploit two historical coincidences: i) originally, a French army of seven and a half thousand was ready to board ships, but one-third did not sail to America because of logistical problems; ii) among the regiments who fought in America against the British, some regiments were stationed for one year in New England before the main battle, and in Virginia afterwards, while others were stationed in the Caribbean colonies. We find that only the combatants who were exposed to the United States affected the French Revolution after their return. 
-  <br> 
-  &nbsp;
   </details> 
+  <br> 
   
 
 **Why Britain? The Right Place (in the Technology Space) at the Right Time** 
@@ -52,9 +51,8 @@ Contact: [lukas.rosenberger(a)northwestern.edu](mailto:lukas.rosenberger@northwe
   <summary>Abstract</summary>  
   Why did Britain attain economic leadership during the Industrial Revolution? We argue
   that Britain possessed an important but underappreciated innovation advantage: British inventors worked in technologies that were more central within the innovation network. We offer a new approach for measuring the innovation network using patent data from Britain and France in the 18th and early 19th century. We show that the network influenced innovation outcomes and then demonstrate that British inventors worked in more central technologies within the innovation network than inventors from France. Then, drawing on recently-developed theoretical tools, we quantify the implications for technology growth rates in Britain compared to France. Our results indicate that the shape of the innovation network, and the location of British inventors within it, can help explain the more rapid technological growth in Britain during the Industrial Revolution.
-  <br> 
-  &nbsp;
   </details>  
+  <br>
 
 **Invention and Technological Leadership during the Industrial Revolution** 
  <br>
@@ -67,9 +65,9 @@ This paper provides the first empirical cross-country evidence on inventive acti
 Idiosyncrasies in the French historic patent law allow us to compare invention rates in Britain and France across sectors based on French patent data from 1791 to 1855.
 Our key result is a robust, positive association of invention rates in Britain and France at the sectoral level. Furthermore, we provide the first quantitative evidence on technological leadership in invention at the sectoral level. 
 The evidence informs a debate about whether the acceleration of technological progress during the Industrial Revolution mainly was a British or a European achievement, which has implications for theories of growth and innovation. 
-  <br> 
-  &nbsp;
   </details>  
+  <br> 
+
 
 <!--
 ## Work in progress
