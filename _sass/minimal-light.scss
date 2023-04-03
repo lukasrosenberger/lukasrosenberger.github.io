@@ -15,7 +15,7 @@ body {
 .social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
 
 autocolor{
-  color:#494949;
+  color:#2C2C2C;
 }
 
 lightonly {
@@ -103,24 +103,24 @@ papertitle {
 
 h1, h3, h4, h5, h6 {
   font-weight: 600;
-  /* frenchroyalblue: rgb(62, 183, 240) darkblue #043361 LMU green #009440 */
-  /* color: #004700;   */
+  /* frenchroyalblue #004700 darkblue #043361 LMU green #009440 */
+  color: #2C2C2C;   
   margin:0 0 20px;
 }
 
 h2 {
-  /* color:#004700; */
+  color:#2C2C2C; 
   margin:20px 0px 10px;
-  font-size: 24px; //
+  font-size: 24px; 
 }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240); 
+    color:#dadbdf; 
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:#dadbdf;
   }
 }
 
@@ -136,20 +136,20 @@ h1 {
   font-size:28px;
 }
 
-/*
+
 a {
-  color:#009440;
+  color:#004700;
   text-decoration:none;
 }
 
 a:hover {
   color:#474748;
 }
-*/
+
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:#004700;
   }
 }
 
@@ -212,11 +212,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color:rgb(62, 183, 240);
+    color:#444;
   }
 
   dt {
-    color:rgb(62, 183, 240);
+    color:#444;
   }
 }
 
@@ -232,7 +232,6 @@ header {
   padding-top:4.0em;
   text-align:center
 }
-
 
 
 header ul {
@@ -452,4 +451,8 @@ footer {
   font-family: monospace;
 }
 
-
+details summary { 
+  cursor: pointer;
+  margin-left: 1em;
+  margin-bottom: 2ex;
+}
