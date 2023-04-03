@@ -35,27 +35,25 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 ## Working Papers
 
-**The American Origin of the French Revolution** [[Draft February 2023](https://lukasrosenberger.github.io/academic/download/American_Origin_of_the_French_Revolution.pdf)] [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)] 
-
+**The American Origin of the French Revolution**  &ensp; with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
+  <br>
+  &ensp; [[Draft April 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution.pdf)] [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
   <br> 
-  &ensp;   with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
   <details>   
   <summary>Abstract</summary>  
-  France sent five thousand men to fight alongside George Washington's army in the American Revolutionary War. We show that the French combatants' exposure to the United States of America increased support for the French Revolution a decade later. French regions (départements) from which more American combatants originated had more revolutionary societies, volunteers for the revolutionary army, riots against feudal institutions, and emigrants from the Old Regime's elite. To establish causality, we exploit two historical coincidences: i) originally, a French army of seven and a half thousand was ready to board ships but one third did not sail to America because of logistical problems; ii) among the regiments who fought in America against the British, some regiments were stationed for one year in New England before the main battle, and in Virginia afterwards, while others were stationed in the Caribbean colonies. We find that only the combatants who were exposed to the United States affected the French Revolution after their return. 
-  <br> 
-  &nbsp;
+  France sent five thousand men to fight alongside George Washington's army in the American Revolutionary War. We show that the French combatants' exposure to the United States of America increased support for the French Revolution a decade later. French regions (départements) from which more American combatants originated had more revolts against feudal institutions, revolutionary societies, volunteers for the revolutionary army, and emigrants from the Old Regime's elite. To establish causality, we exploit two historical coincidences: i) originally, a French army of seven and a half thousand was ready to board ships, but one-third did not sail to America because of logistical problems; ii) among the regiments who fought in America against the British, some regiments were stationed for one year in New England before the main battle, and in Virginia afterwards, while others were stationed in the Caribbean colonies. We find that only the combatants who were exposed to the United States affected the French Revolution after their return. 
   </details> 
   
 
 **Why Britain? The Right Place (in the Technology Space) at the Right Time** [[Paper](https://lukasrosenberger.github.io/academic/download/HHR_22_07_Why_Britain.pdf)] 
   <br> 
   &ensp;   with [Carl Hallmann](https://cclemh.github.io/) and [W. Walker Hanlon](http://walkerhanlon.com/), July 2022 (NBER Summer Institute version)
+  <br> 
+
   <details>   
   <summary>Abstract</summary>  
   Why did Britain attain economic leadership during the Industrial Revolution? We argue
   that Britain possessed an important but underappreciated innovation advantage: British inventors worked in technologies that were more central within the innovation network. We offer a new approach for measuring the innovation network using patent data from Britain and France in the 18th and early 19th century. We show that the network influenced innovation outcomes and then demonstrate that British inventors worked in more central technologies within the innovation network than inventors from France. Then, drawing on recently-developed theoretical tools, we quantify the implications for technology growth rates in Britain compared to France. Our results indicate that the shape of the innovation network, and the location of British inventors within it, can help explain the more rapid technological growth in Britain during the Industrial Revolution.
-  <br> 
-  &nbsp;
   </details>  
 
 **Invention and Technological Leadership during the Industrial Revolution** [[Paper](https://lukasrosenberger.github.io/academic/download/HRY_21_11_Invention_and_Leadership.pdf)] 
