@@ -449,9 +449,9 @@ footer {
   font-family: monospace;
 }
 
-details summary { 
+details > summary { 
   cursor: pointer;
-  color: #009440;
+  color: #004700;
   margin-left: 1em;
   margin-top: -2ex;
   margin-bottom: 2ex;
