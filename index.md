@@ -8,7 +8,7 @@ layout: homepage
 
 I am a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics from LMU Munich in February 2023 with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy". During my doctoral studies, I visited Northwestern University (October 2021 to June 2022) and Brown University (January to May 2020).
 
-Bio: [[curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV_Lukas_Rosenberger.pdf)]
+Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_Lukas_Rosenberger.pdf)]
 
 Contact: [lukas.rosenberger(a)northwestern.edu](mailto:lukas.rosenberger@northwestern.edu)
 
@@ -52,7 +52,6 @@ Contact: [lukas.rosenberger(a)northwestern.edu](mailto:lukas.rosenberger@northwe
   Why did Britain attain economic leadership during the Industrial Revolution? We argue
   that Britain possessed an important but underappreciated innovation advantage: British inventors worked in technologies that were more central within the innovation network. We offer a new approach for measuring the innovation network using patent data from Britain and France in the 18th and early 19th century. We show that the network influenced innovation outcomes and then demonstrate that British inventors worked in more central technologies within the innovation network than inventors from France. Then, drawing on recently-developed theoretical tools, we quantify the implications for technology growth rates in Britain compared to France. Our results indicate that the shape of the innovation network, and the location of British inventors within it, can help explain the more rapid technological growth in Britain during the Industrial Revolution.
   </details>  
-  <br>
 
 **Invention and Technological Leadership during the Industrial Revolution** 
  <br>
