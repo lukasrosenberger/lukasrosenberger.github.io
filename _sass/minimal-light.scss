@@ -4,13 +4,16 @@
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
-  color:#595959;
+  font-family: 'Proza Libre', sans-serif; 
   font-weight:400;
+  font-size: 16px;
+  line-height:1.55;  
+  color:#595959;  
   margin:0
 }
 
-.social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
+.social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}
+.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
 
 autocolor{
   color:#494949;
@@ -91,8 +94,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 50%;
-        padding:20px;
+        width: 100%;
+        padding:0px;
       }
 
     #header .image.avatar {
@@ -100,31 +103,12 @@ papertitle {
       width: 8.00em;
     }
 
-h1, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   color:#043361;
   margin:0 0 20px;
 }
 
-h2 {
-  color:#043361;
-  margin:2px 0px 15px;
-  font-size: 157%;
-}
-
-@media (prefers-color-scheme: dark) {
-  h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
-  }
-
-  h2 {
-    color:rgb(62, 183, 240);
-  }
-}
-
-p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
-}
 
 h1, h2, h3 {
   line-height:1.1;
@@ -132,6 +116,28 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+}
+
+h2 {
+  font-size:22px; 
+}
+
+h3 {
+  font-size:20px;
+}
+
+h4 {
+  font-size:18px;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color:rgb(62, 183, 240);
+  }
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
 }
 
 a {
@@ -446,4 +452,12 @@ footer {
   margin-left: 0px;
   display:none;
   font-family: monospace;
+}
+
+details summary { 
+  cursor: pointer;
+  color: #39c;
+  margin-left: 0em;
+  margin-top: -2ex;
+  margin-bottom: 3ex;
 }
