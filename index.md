@@ -8,7 +8,11 @@ layout: homepage
 
 I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy". During my doctoral studies, I visited Northwestern University and Brown University.
 
+<<<<<<< HEAD
 Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_RosenbergerL_2023_Aug.pdf)]
+=======
+Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_Lukas_Rosenberger.pdf)]
+>>>>>>> c4af96e9cb078816e95f9fd3c760ad4f20257a97
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de) 
 <br>
@@ -43,6 +47,10 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
   <summary>Abstract</summary>  
   France sent five thousand men to fight alongside George Washington's army in the American Revolutionary War. We show that the French combatants' exposure to the United States of America increased support for the French Revolution a decade later. French regions (départements) from which more American combatants originated had more revolts against feudal institutions, revolutionary societies, volunteers for the revolutionary army, and emigrants from the Old Regime's elite. To establish causality, we exploit two historical coincidences: i) originally, a French army of seven and a half thousand was ready to board ships, but one-third did not sail to America because of logistical problems; ii) among the regiments who fought in America against the British, some regiments were stationed for one year in New England before the main battle, and in Virginia afterwards, while others were stationed in the Caribbean colonies. We find that only the combatants who were exposed to the United States affected the French Revolution after their return. 
   </details> 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> c4af96e9cb078816e95f9fd3c760ad4f20257a97
 
 **Why Britain? The Right Place (in the Technology Space) at the Right Time** 
   <br>  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [W. Walker Hanlon](http://walkerhanlon.com/)
@@ -65,6 +73,10 @@ Idiosyncrasies in the French historic patent law allow us to compare invention r
 Our key result is a robust, positive association of invention rates in Britain and France at the sectoral level. Furthermore, we provide the first quantitative evidence on technological leadership in invention at the sectoral level. 
 The evidence informs a debate about whether the acceleration of technological progress during the Industrial Revolution mainly was a British or a European achievement, which has implications for theories of growth and innovation. 
   </details>  
+<<<<<<< HEAD
+=======
+
+>>>>>>> c4af96e9cb078816e95f9fd3c760ad4f20257a97
 
 <!--
 ## Work in progress
