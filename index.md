@@ -11,7 +11,6 @@ I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previ
 Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_RosenbergerL_2023_Aug.pdf)]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de) 
-<br>
 
 <!--
 
