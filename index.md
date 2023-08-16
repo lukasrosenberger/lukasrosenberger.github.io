@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy". During my doctoral studies, I visited Northwestern University and Brown University.
+I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy". During my doctoral studies, I visited Northwestern University and Brown University.
 
 Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_RosenbergerL_2023_Aug.pdf)]
 
