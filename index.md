@@ -81,8 +81,8 @@ Knowledge Elites in the Age of Enlightenment**
   <summary>Abstract</summary>  
 Upper-tail knowledge is increasingly seen as a pivotal factor enabling modern economic growth to emerge in Western Europe. 
 This paper documents the important role of formal, and in particular science-based education in schools for diffusing upper-tail knowledge.
-Focusing on France, a country at the forefront of Enlightenment and Science in the eighteenth century, we construct a novel dataset on the establishment and the curriculum of the universe of public secondary schools (so-called *collèges*) from 1500 to 1789. 
-Comparing towns with science track to towns without science track in the local *collège* in 1750, we find that science education is strongly positively associated with different proxies for upper-tail knowledge elites like scientific societies or subscriptions to the Enlightenment *Encyclopédie*.
+Focusing on France, a country at the forefront of Enlightenment and Science in the eighteenth century, we construct a novel dataset on the establishment and the curriculum of the universe of public secondary schools (so-called <i>collèges</i>) from 1500 to 1789. 
+Comparing towns with science track to towns without science track in the local <i>collège</i> in 1750, we find that science education is strongly positively associated with different proxies for upper-tail knowledge elites like scientific societies or subscriptions to the Enlightenment <i>Encyclopédie</i>.
 We then study the origins of schools and the science curriculum, highlighting the importance of religious competition in the post-reformation period.
 We find that Catholic Bishop’s seats strongly predict the establishment of schools but not the shift of the curriculum towards science. 
 In contrast, Jesuits (a Catholic teaching order) established science chairs at colleges from ca 1600 and were more likely to do so in the presence of a local Huguenot community.
@@ -95,7 +95,7 @@ In contrast, Jesuits (a Catholic teaching order) established science chairs at c
   <summary>Abstract</summary>  
 This paper shows that enlightenment encyclopedias contributed to accelerating economic growth during the Industrial Revolution by providing access to useful technological knowledge. 
 Drawing on novel city-level data from a trade directory of European booksellers in 1781, I first document (i) a robust positive association between city population growth from 1750 to 1850 and the number of booksellers per capita; (ii) that booksellers strongly predict city-level sales of two pivotal encyclopedias of useful knowledge; (iii) and that these sales mediate the association of city growth and booksellers. To isolate variation in the supply of encyclopedias, I consider the role of geographical proximity of booksellers to the encyclopedia's publishers, which affected the booksellers' wholesale access. 
-Specifically, I use the *interaction* of booksellers and proximity to the publisher, conditioning separately on booksellers and on proximity, to instrument for encyclopedia sales.
+Specifically, I use the <i>interaction</i> of booksellers and proximity to the publisher, conditioning separately on booksellers and on proximity, to instrument for encyclopedia sales.
 The 2SLS results confirm that cities with better access to useful knowledge grew faster after 1750 but not before.
   <br> &nbsp; 
   </details> 
