@@ -36,11 +36,11 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 **The American Origin of the French Revolution**  
   &ensp; with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
   <br>
-  &ensp; [[Draft April 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution.pdf)] 
+  &ensp; [[Draft October 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution.pdf)] 
     [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
   <details>   
   <summary>Abstract</summary>  
-  France sent five thousand men to fight alongside George Washington's army in the American Revolutionary War. We show that the French combatants' exposure to the United States of America increased support for the French Revolution a decade later. French regions (départements) from which more American combatants originated had more revolts against feudal institutions, revolutionary societies, volunteers for the revolutionary army, and emigrants from the Old Regime's elite. To establish causality, we exploit two historical coincidences: i) originally, a French army of seven and a half thousand was ready to board ships, but one-third did not sail to America because of logistical problems; ii) among the regiments who fought in America against the British, some regiments were stationed for one year in New England before the main battle, and in Virginia afterwards, while others were stationed in the Caribbean colonies. We find that only the combatants who were exposed to the United States affected the French Revolution after their return. 
+ We show that the French combatants' exposure to the United States increased support for the French Revolution a decade later. French regions from which more American combatants originated had more revolts against feudal institutions, revolutionary societies, volunteers for the revolutionary army, and emigrants from the Old Regime's elite. To establish causality, we exploit two historical coincidences: i) originally, a French army of seven and a half thousand was ready to sail, but one-third did not; ii) among those deployed, only some regiments were stationed in New England. Only combatants exposed to New England affected the French Revolution after their return.
   <br> &nbsp;
   </details> 
 
