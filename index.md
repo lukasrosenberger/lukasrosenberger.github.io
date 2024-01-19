@@ -36,7 +36,8 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 **The American Origin of the French Revolution**  
   &ensp; with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
   <br>
-  &ensp; [[Draft October 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution.pdf)] 
+  &ensp; [[Draft December 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Dec_2023.pdf)]
+    [[Draft October 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Oct_2023.pdf)] 
     [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
   <details>   
   <summary>Abstract</summary>  
