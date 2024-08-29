@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy". During my doctoral studies, I visited Northwestern University and Brown University.
+I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy", which was awarded the Alexander Gerschenkron Prize of the Economic History Association. During my doctoral studies, I visited Northwestern University and Brown University.
 
 Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_RosenbergerL_2023_Aug.pdf)]
 
@@ -33,6 +33,15 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
 ## Working Papers
 
+**Innovation Networks in the Industrial Revolution** (*updated draft*)
+  <br>  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [W. Walker Hanlon](http://walkerhanlon.com/)
+  <br>  &ensp; [[Draft August 2024](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_Aug2024.pdf)] [[CESifo WP](https://www.cesifo.org/en/publications/2024/working-paper/innovation-networks-industrial-revolution)]
+  <details>   
+  <summary>Abstract</summary>  
+How did Britain sustain faster rates of economic growth than comparable European countries, such as France, during the Industrial Revolution? We argue that Britain possessed an important but underappreciated innovation advantage: British inventors worked in technologies that were more central within the innovation network. We offer a new approach for measuring the innovation network using patent data from Britain and France in the late-18th and early-19th century. We show that the network influenced innovation outcomes and demonstrate that British inventors worked in more central technologies within the innovation network than French inventors. Drawing on recently developed theoretical tools, and using a novel estimation strategy, we quantify the implications for technology growth rates in Britain compared to France. Our results indicate that the shape of the innovation network, and the location of British inventors within it, explains an important share of the more rapid technological change and industrial growth in Britain during the Industrial Revolution.
+  <br> &nbsp;
+  </details>  
+
 **The American Origin of the French Revolution**  
   &ensp; with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
   <br>
@@ -45,16 +54,6 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
   <br> &nbsp;
   </details> 
 
-
-**Why Britain? The Right Place (in the Technology Space) at the Right Time** 
-  <br>  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [W. Walker Hanlon](http://walkerhanlon.com/)
-  <br>  &ensp; [[Draft July 2022](https://lukasrosenberger.github.io/download/HHR_22_07_Why_Britain.pdf)], presented at the NBER Summer Institute 
-  <details>   
-  <summary>Abstract</summary>  
-  Why did Britain attain economic leadership during the Industrial Revolution? We argue
-  that Britain possessed an important but underappreciated innovation advantage: British inventors worked in technologies that were more central within the innovation network. We offer a new approach for measuring the innovation network using patent data from Britain and France in the 18th and early 19th century. We show that the network influenced innovation outcomes and then demonstrate that British inventors worked in more central technologies within the innovation network than inventors from France. Then, drawing on recently-developed theoretical tools, we quantify the implications for technology growth rates in Britain compared to France. Our results indicate that the shape of the innovation network, and the location of British inventors within it, can help explain the more rapid technological growth in Britain during the Industrial Revolution.
-  <br> &nbsp;
-  </details>  
 
 **Invention and Technological Leadership during the Industrial Revolution** 
  <br>
