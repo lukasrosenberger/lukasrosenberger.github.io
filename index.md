@@ -34,7 +34,7 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 ## Working Papers
 
 **Innovation Networks in the Industrial Revolution** (*updated draft*)
-  <br>  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [W. Walker Hanlon](http://walkerhanlon.com/)
+  <br>  &ensp;  with [W. Walker Hanlon](http://walkerhanlon.com/) and [Carl Hallmann](https://cclemh.github.io/)
   <br>  &ensp; [[Draft August 2024](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_Aug2024.pdf)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/innovation-networks-industrial-revolution)]
   <details>   
   <summary>Abstract</summary>  
