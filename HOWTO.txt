@@ -1,0 +1,11 @@
+Install
+
+gem install jekyll bundler
+
+cd c/...
+
+bundle install		% once
+
+bundle exec jekyll serve --livereload
+
+Browse to http://localhost:4000

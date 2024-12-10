@@ -8,6 +8,7 @@ layout: homepage
 
 I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy", which was awarded the [Alexander Gerschenkron Prize](https://eh.net/gerschenkron-prize-2/) of the Economic History Association. During my doctoral studies, I visited Northwestern University and Brown University.
 
+
 Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_RosenbergerL_2023_Aug.pdf)]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de) 
@@ -34,13 +35,13 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 ## Publications
 
 **Enlightenment, Industrial Revolution, and the Knowledge Economy** (Summary of Doctoral Dissertation), 
-*Journal of Economic History*, 84(2), pp 623--617, 2024 
-<br> &ensp; [[extract](https://lukasrosenberger.github.io/download/2024_JEH_dissertation_summary_Rosenberger.pdf)] 
+*Journal of Economic History*, 84 (2), pp 623--627, 2024 
+<br> &ensp; [[summary](https://lukasrosenberger.github.io/download/2024_JEH_dissertation_summary_Rosenberger.pdf)] 
 
 ## Working Papers
 
-**Innovation Networks in the Industrial Revolution**
-  <br>  &ensp;  with [W. Walker Hanlon](http://walkerhanlon.com/) and [Carl Hallmann](https://cclemh.github.io/)
+**Innovation Networks in the Industrial Revolution** 
+&thinsp; with [Walker Hanlon](http://walkerhanlon.com/) and [Carl Hallmann](https://cclemh.github.io/)
   <br>  &ensp; [[NBER Working Paper](https://www.nber.org/papers/w32875)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/innovation-networks-industrial-revolution)]
 <!--[[Draft August 2024](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_Aug2024.pdf)]-->
   <details>   
@@ -49,10 +50,9 @@ How did Britain sustain faster rates of economic growth than comparable European
   <br> &nbsp;
   </details>  
 
-**The American Origin of the French Revolution**  
-  &ensp; with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
-  <br>
-  &ensp; [[Draft December 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Dec_2023.pdf)]
+**The American Origin of the French Revolution** 
+&thinsp;  with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
+  <br> &ensp; [[Draft December 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Dec_2023.pdf)]
     [[Draft October 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Oct_2023.pdf)] 
     [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
   <details>   
@@ -63,10 +63,8 @@ How did Britain sustain faster rates of economic growth than comparable European
 
 
 **Invention and Technological Leadership during the Industrial Revolution** 
- <br>
-  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [Emre E. Yavuz](https://eeyz.me/)
- <br>
-  &ensp; [[Draft November 2021](https://lukasrosenberger.github.io/download/HRY_21_11_Invention_and_Leadership.pdf)] 
+&thinsp; with [Carl Hallmann](https://cclemh.github.io/) and [Emre E. Yavuz](https://eeyz.me/)
+ <br> &ensp; [[Draft November 2021](https://lukasrosenberger.github.io/download/HRY_21_11_Invention_and_Leadership.pdf)] 
   <details>   
   <summary>Abstract</summary>  
 This paper provides the first empirical cross-country evidence on inventive activity during the Industrial Revolution.
@@ -80,10 +78,7 @@ The evidence informs a debate about whether the acceleration of technological pr
 
 ## Work in progress
 
-**From Science Education to Scientific Society:
-Knowledge Elites in the Age of Enlightenment**
-  <br>
-  &ensp; with Uwe Sunde (LMU Munich). &ensp; 
+**From Science Education to Scientific Society: Knowledge Elites in the Age of Enlightenment** &thinsp;  with [Uwe Sunde](https://sites.google.com/view/uwesunde/)
   <details>   
   <summary>Abstract</summary>  
 Upper-tail knowledge is increasingly seen as a pivotal factor enabling modern economic growth to emerge in Western Europe. 
@@ -97,7 +92,7 @@ In contrast, Jesuits (a Catholic teaching order) established science chairs at c
   </details> 
 
 
-**Access to Useful Knowledge and Economic Growth: Evidence from Enlightenment Encyclopedias**
+**Access to Useful Knowledge and Economic Growth: Evidence from Enlightenment Encyclopedias** 
   <details>   
   <summary>Abstract</summary>  
 This paper shows that enlightenment encyclopedias contributed to accelerating economic growth during the Industrial Revolution by providing access to useful technological knowledge. 
@@ -107,6 +102,22 @@ The 2SLS results confirm that cities with better access to useful knowledge grew
   <br> &nbsp; 
   </details> 
 
+**Product Innovation and the Industrial Revolution** &thinsp; with [Christopher Sims](https://www.linkedin.com/in/christopher-sims-bbba6a13a) and [Zixin Wei](https://www.linkedin.com/in/zincy-wei-561800117)
+
+
+**Fiscal Capacity in Absolutist France**  &thinsp; with [Benjamin Marx](https://sites.google.com/view/bmarx/), [Sebastian Öttinger](https://sites.google.com/view/sebastian-ottinger), and [Nico Voigtländer](https://www.anderson.ucla.edu/faculty/nico.v/)
+
+
+**Breaking Barriers, Building (on) Networks: The Jewish Emancipation in Germany** &thinsp; with [Israel Eruchimovitch](https://sites.google.com/brown.edu/israel-eruchimovitch) and [Assaf Sarid](http://www.assafsarid.com/)
+  <details>   
+  <summary>Abstract</summary>  
+How do minority groups react to state efforts to integrate them into society? The experience of German Jews during the 19th century offers a compelling case study to explore this question. For centuries, Jews in Germany faced numerous legal restrictions that excluded them from society. Legal emancipation in the first half of the century granted Jews substantial rights, aligning their prospects with those of Christians during the unfolding Industrial Revolution. However, industrialization led to a growing divergence in the occupational paths of Christians and Jews: 
+Using county-level data from Prussia, we show that while Christians shifted from agriculture to industry, Jews tended to specialize in certain service sector professions, such as finance, law, and medicine. At the same time, Jews in more industrialized regions experienced deeper acculturation, as reflected in higher rates of intermarriage. We work on complementing the analysis with individual-level data from archival sources to explore the relationship between occupational choices and acculturation efforts, including name changes and conversion to Christianity. Finally, using a game-theoretic model, we propose that the strong social networks Jews developed over centuries of isolation might explain the dual pattern of specialization and acculturation. These networks not only provided Jews with a comparative advantage in professions that relied on connections, thereby fostering occupational specialization, but also enabled them to privately maintain their group identity while blending into majority culture.
+  <br> &nbsp; 
+  </details> 
+
+<br>
+<br>
 
 
 <!--
