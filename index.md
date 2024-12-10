@@ -31,6 +31,12 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 [[PDF](link)]  
 -->
 
+## Publications
+
+**Enlightenment, Industrial Revolution, and the Knowledge Economy** (Summary of Doctoral Dissertation), 
+*Journal of Economic History*, 84(2), pp 623--617, 2024 
+<br> &ensp; [[extract](https://lukasrosenberger.github.io/download/2024_JEH_dissertation_summary_Rosenberger.pdf)] 
+
 ## Working Papers
 
 **Innovation Networks in the Industrial Revolution**
@@ -58,7 +64,7 @@ How did Britain sustain faster rates of economic growth than comparable European
 
 **Invention and Technological Leadership during the Industrial Revolution** 
  <br>
-  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [Emre E. Yavuz](https://sites.northwestern.edu/eeyz/)
+  &ensp;  with [Carl Hallmann](https://cclemh.github.io/) and [Emre E. Yavuz](https://eeyz.me/)
  <br>
   &ensp; [[Draft November 2021](https://lukasrosenberger.github.io/download/HRY_21_11_Invention_and_Leadership.pdf)] 
   <details>   
