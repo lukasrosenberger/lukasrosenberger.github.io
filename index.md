@@ -9,7 +9,7 @@ layout: homepage
 I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy", which was awarded the [Alexander Gerschenkron Prize](https://eh.net/gerschenkron-prize-2/) of the Economic History Association. During my doctoral studies, I visited Northwestern University and Brown University.
 
 
-Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_RosenbergerL_2023_Aug.pdf)]
+Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/Rosenberger_CV_2024_Dec.pdf)]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de) 
 
@@ -36,14 +36,14 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
 **Enlightenment, Industrial Revolution, and the Knowledge Economy** (Summary of Doctoral Dissertation), 
 *Journal of Economic History*, 84 (2), pp 623--627, 2024 
-<br> &ensp; [[summary](https://lukasrosenberger.github.io/download/2024_JEH_dissertation_summary_Rosenberger.pdf)] 
+<br> &ensp; [[summary](https://lukasrosenberger.github.io/download/Rosenberger_2024_JEH_dissertation_summary.pdf)] 
 
 ## Working Papers
 
 **Innovation Networks in the Industrial Revolution** 
 &thinsp; with [Walker Hanlon](http://walkerhanlon.com/) and [Carl Hallmann](https://cclemh.github.io/)
   <br>  &ensp; [[NBER Working Paper](https://www.nber.org/papers/w32875)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/innovation-networks-industrial-revolution)]
-<!--[[Draft August 2024](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_Aug2024.pdf)]-->
+[[Draft August 2024](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_Aug2024.pdf)]
   <details>   
   <summary>Abstract</summary>  
 How did Britain sustain faster rates of economic growth than comparable European countries, such as France, during the Industrial Revolution? We argue that Britain possessed an important but underappreciated innovation advantage: British inventors worked in technologies that were more central within the innovation network. We offer a new approach for measuring the innovation network using patent data from Britain and France in the late-18th and early-19th century. We show that the network influenced innovation outcomes and demonstrate that British inventors worked in more central technologies within the innovation network than French inventors. Drawing on recently developed theoretical tools, and using a novel estimation strategy, we quantify the implications for technology growth rates in Britain compared to France. Our results indicate that the shape of the innovation network, and the location of British inventors within it, explains an important share of the more rapid technological change and industrial growth in Britain during the Industrial Revolution.
