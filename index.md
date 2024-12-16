@@ -105,7 +105,7 @@ The 2SLS results confirm that cities with better access to useful knowledge grew
 **Product Innovation and the Industrial Revolution** &thinsp; with [Christopher Sims](https://www.linkedin.com/in/christopher-sims-bbba6a13a) and [Zixin Wei](https://www.linkedin.com/in/zincy-wei-561800117)
 
 
-**Fiscal Capacity in Absolutist France**  &thinsp; with [Benjamin Marx](https://sites.google.com/view/bmarx/), [Sebastian Öttinger](https://sites.google.com/view/sebastian-ottinger), and [Nico Voigtländer](https://www.anderson.ucla.edu/faculty/nico.v/)
+**Fiscal Capacity in Absolutist France**  &thinsp; with [Benjamin Marx](https://sites.google.com/view/bmarx/), [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger), and [Nico Voigtländer](https://www.anderson.ucla.edu/faculty/nico.v/)
 
 
 **Breaking Barriers, Building (on) Networks: The Jewish Emancipation in Germany** &thinsp; with [Israel Eruchimovitch](https://sites.google.com/brown.edu/israel-eruchimovitch) and [Assaf Sarid](http://www.assafsarid.com/)
