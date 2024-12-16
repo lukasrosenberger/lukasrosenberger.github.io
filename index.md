@@ -102,12 +102,6 @@ The 2SLS results confirm that cities with better access to useful knowledge grew
   <br> &nbsp; 
   </details> 
 
-**Product Innovation and the Industrial Revolution** &thinsp; with [Christopher Sims](https://www.linkedin.com/in/christopher-sims-bbba6a13a) and [Zixin Wei](https://www.linkedin.com/in/zincy-wei-561800117)
-
-
-**Fiscal Capacity in Absolutist France**  &thinsp; with [Benjamin Marx](https://sites.google.com/view/bmarx/), [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger), and [Nico Voigtländer](https://www.anderson.ucla.edu/faculty/nico.v/)
-
-
 **Breaking Barriers, Building (on) Networks: The Jewish Emancipation in Germany** &thinsp; with [Israel Eruchimovitch](https://sites.google.com/brown.edu/israel-eruchimovitch) and [Assaf Sarid](http://www.assafsarid.com/)
   <details>   
   <summary>Abstract</summary>  
@@ -115,6 +109,13 @@ How do minority groups react to state efforts to integrate them into society? Th
 Using county-level data from Prussia, we show that while Christians shifted from agriculture to industry, Jews tended to specialize in certain service sector professions, such as finance, law, and medicine. At the same time, Jews in more industrialized regions experienced deeper acculturation, as reflected in higher rates of intermarriage. We work on complementing the analysis with individual-level data from archival sources to explore the relationship between occupational choices and acculturation efforts, including name changes and conversion to Christianity. Finally, using a game-theoretic model, we propose that the strong social networks Jews developed over centuries of isolation might explain the dual pattern of specialization and acculturation. These networks not only provided Jews with a comparative advantage in professions that relied on connections, thereby fostering occupational specialization, but also enabled them to privately maintain their group identity while blending into majority culture.
   <br> &nbsp; 
   </details> 
+
+<!--
+**Product Innovation and the Industrial Revolution** &thinsp; with [Christopher Sims](https://www.linkedin.com/in/christopher-sims-bbba6a13a) and [Zixin Wei](https://www.linkedin.com/in/zincy-wei-561800117)
+
+
+**Fiscal Capacity in Absolutist France**  &thinsp; with [Benjamin Marx](https://sites.google.com/view/bmarx/), [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger), and [Nico Voigtländer](https://www.anderson.ucla.edu/faculty/nico.v/)
+--->
 
 <br>
 <br>
