@@ -52,9 +52,7 @@ How did Britain sustain faster rates of economic growth than comparable European
 
 **The American Origin of the French Revolution** 
 &thinsp;  with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
-  <br> &ensp; [[Draft April 2025](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_April_2025.pdf)] [[Draft December 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Dec_2023.pdf)]
-    [[Draft October 2023](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_Oct_2023.pdf)] 
-    [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
+  <br> &ensp; [[Draft April 2025](https://lukasrosenberger.github.io/download/American_Origins_of_the_French_Revolution_April_2025.pdf)]  [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
   <details>   
   <summary>Abstract</summary>  
 Can exposure to better institutions abroad inspire change at home? We show that French combatants from the American Revolutionary War drove support for the French Revolution. Regions from which these combatants came experienced more anti-feudal revolts, revolutionary societies, military volunteers, and emigration of old elites. To establish causality and mechanism, we exploit that one-third of a readied army never sailed, and among those deployed, only certain regiments were stationed in New England while all fought in Virginia. Only combatants exposed to New England influenced revolutionary outcomes, while those who merely fought in Virginia or never sailed had no effect. 
