@@ -9,7 +9,7 @@ layout: homepage
 I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy", which was awarded the [Alexander Gerschenkron Prize](https://eh.net/gerschenkron-prize-2/) of the Economic History Association. During my doctoral studies, I visited Northwestern University and Brown University.
 
 
-Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/Rosenberger_CV_2024_Dec.pdf)]
+Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_Rosenberger_2025_09.pdf)]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de) 
 
