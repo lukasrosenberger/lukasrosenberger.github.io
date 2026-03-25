@@ -50,12 +50,12 @@ How did Britain sustain faster rates of economic growth than comparable European
   <br> &nbsp;
   </details>  
 
-**The American Origin of the French Revolution** 
+**The American Contribution to the French Revolution** 
 &thinsp;  with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger)
-  <br> &ensp; [[Draft March 2026](https://lukasrosenberger.github.io/download/American_Contribution_to_the_French_Revolution_March_2026.pdf)]  [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
+  <br> &ensp; [[New draft March 2026](https://lukasrosenberger.github.io/download/American_Contribution_to_the_French_Revolution_March_2026.pdf)]  [[IZA Discussion Paper](https://docs.iza.org/dp15974.pdf)]   
   <details>   
   <summary>Abstract</summary>  
-Can exposure to better institutions abroad inspire change at home? We show that French combatants from the American Revolutionary War drove support for the French Revolution. Regions from which these combatants came experienced more anti-feudal revolts, revolutionary societies, military volunteers, and emigration of old elites. To establish causality and mechanism, we exploit that one-third of a readied army never sailed, and among those deployed, only certain regiments were stationed in New England while all fought in Virginia. Only combatants exposed to New England influenced revolutionary outcomes, while those who merely fought in Virginia or never sailed had no effect. 
+Can exposure to better institutions abroad inspire institutional change at home? We show that the experience of the United States by French combatants during the American Revolutionary War was an important source of support for the French Revolution. Across France, regions that sent more combatants had more anti-feudal revolts, revolutionary societies, military volunteers, and emigration of old elites. To establish causality and mechanism, we leverage a quasi-natural experiment: One-third of the readied army never sailed to America, and among those deployed all fought in Virginia, while only certain regiments were stationed in New England. Only exposure to New England mattered.
   <br> &nbsp;
   </details> 
 
