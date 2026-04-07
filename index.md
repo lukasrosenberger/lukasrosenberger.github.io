@@ -30,8 +30,8 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
 **Innovation Networks in the Industrial Revolution** 
 &thinsp; with [Walker Hanlon](http://walkerhanlon.com/) and [Carl Hallmann](https://cclemh.github.io/)
-  <br>  &ensp; [[NBER Working Paper](https://www.nber.org/papers/w32875)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/innovation-networks-industrial-revolution)]
-[[New draft April 2026](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_2026_04.pdf)]
+  <br>  &ensp; [[New draft April 2026](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_2026_04.pdf)][[NBER Working Paper](https://www.nber.org/papers/w32875)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/innovation-networks-industrial-revolution)]
+
   <details>   
   <summary>Abstract</summary>  
  We offer a new approach to understanding technological progress and economic growth during the Industrial Revolution using modern growth theory combined with detailed micro-data. We develop a multi-sector endogenous growth model that we use to study one leading theory of British advantage during the Industrial Revolution: knowledge access costs. We apply our model to patent data from Britain and France in order to estimate key parameters, including vectors of country and technology-specific knowledge access parameters. We validate our estimates and then use the model to study their implications during the transition to modern economic growth. We show that, relative to France, British inventors faced lower knowledge access barriers, a difference that generated meaningful growth rate differences on the transition path, even when accounting for cross-country knowledge and technology flows.
