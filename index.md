@@ -53,10 +53,7 @@ Can exposure to better institutions abroad inspire institutional change at home?
  <br> &ensp; [[Draft November 2021](https://lukasrosenberger.github.io/download/HRY_21_11_Invention_and_Leadership.pdf)] 
   <details>   
   <summary>Abstract</summary>  
-This paper provides the first empirical cross-country evidence on inventive activity during the Industrial Revolution.
-Idiosyncrasies in the French historic patent law allow us to compare invention rates in Britain and France across sectors based on French patent data from 1791 to 1855.
-Our key result is a robust, positive association of invention rates in Britain and France at the sectoral level. Furthermore, we provide the first quantitative evidence on technological leadership in invention at the sectoral level. 
-The evidence informs a debate about whether the acceleration of technological progress during the Industrial Revolution mainly was a British or a European achievement, which has implications for theories of growth and innovation.
+This paper provides the first systematic sector-level comparison of inventive activity in Britain and France during the Industrial Revolution. We exploit a feature of the French patent law between 1791 and 1844 that recorded foreign inventions alongside domestic ones to construct comparable, quality-adjusted invention rates for both countries. These relative rates identify technological leadership across sectors. A bounding argument further establishes that Britain's absolute rate was at most about 1.5 times France's. We then document pronounced sectoral differences in leadership, but also a strong positive correlation between British and French invention rates across sectors. This suggests that inventive effort concentrated in technologies that were pursued in both countries, and that the acceleration of technological progress during the Industrial Revolution was not a narrowly British achievement. 
   <br> &nbsp; 
   </details>  
 
