@@ -59,8 +59,28 @@ This paper provides the first systematic sector-level comparison of inventive ac
 
 
 
-## Work in progress
+## Works in progress
 
+
+**Product Innovation during the Industrial Revolution: Evidence from France** &thinsp; with [Chris Sims](https://sites.google.com/view/cwasims) and Zixin Wei
+  <details>   
+  <summary>Abstract</summary>  
+The Industrial Revolution has famously been described as a wave of gadgets sweeping over England, and a large recent literature has illuminated the supply of the ideas behind such products. Yet the market incentives central to Schumpeterian growth theory have been studied far less systematically. We assemble new microdata from a series of national industrial expositions held in Paris between 1800 and 1850, digitizing every exhibitor and product to construct a linked inventor-by-product panel with measures of each product's novelty and quality. We find that incumbent exhibitors account for the large majority of high-quality innovations. Yet the quality of an exhibitor's prior innovation is negatively associated with the probability of innovating again. This negative relationship operates through relative standing: within narrowly defined product markets, a 10-percentile increase in an exhibitor's quality rank lowers the propensity to innovate again by 2.36\%. We investigate the mechanisms underlying the incumbent exhibitors' weaker incentives to innovate again and argue these patterns are consistent with the Arrow replacement effect.
+  <br> &nbsp; 
+  </details> 
+
+
+**Access to Useful Knowledge and Economic Growth: Evidence from Enlightenment Encyclopedias** &thinsp; 
+  <details>   
+  <summary>Abstract</summary>  
+This paper shows that enlightenment encyclopedias contributed to accelerating economic growth during the Industrial Revolution by providing access to useful technological knowledge. 
+Drawing on novel city-level data from a trade directory of European booksellers in 1781, I first document (i) a robust positive association between city population growth from 1750 to 1850 and the number of booksellers per capita; (ii) that booksellers strongly predict city-level sales of two pivotal encyclopedias of useful knowledge; (iii) and that these sales mediate the association of city growth and booksellers. To isolate variation in the supply of encyclopedias, I consider the role of geographical proximity of booksellers to the encyclopedia's publishers, which affected the booksellers' wholesale access. 
+Specifically, I use the <i>interaction</i> of booksellers and proximity to the publisher, conditioning separately on booksellers and on proximity, to instrument for encyclopedia sales.
+The 2SLS results confirm that cities with better access to useful knowledge grew faster after 1750 but not before.
+  <br> &nbsp; 
+  </details> 
+
+  
 **From Science Education to Scientific Society: Knowledge Elites in the Age of Enlightenment** &thinsp;  with [Uwe Sunde](https://sites.google.com/view/uwesunde/)
   <details>   
   <summary>Abstract</summary>  
@@ -70,20 +90,11 @@ Focusing on France, a country at the forefront of Enlightenment and Science in t
 Comparing towns with science track to towns without science track in the local <i>collège</i> in 1750, we find that science education is strongly positively associated with different proxies for upper-tail knowledge elites like scientific societies or subscriptions to the Enlightenment <i>Encyclopédie</i>.
 We then study the origins of schools and the science curriculum, highlighting the importance of religious competition in the post-reformation period.
 We find that Catholic Bishop’s seats strongly predict the establishment of schools but not the shift of the curriculum towards science. 
-In contrast, Jesuits (a Catholic teaching order) established science chairs at colleges from ca 1600 and were more likely to do so in the presence of a local Huguenot community.
+In contrast, if Jesuits ran the schools, they established science chairs at colleges from ca 1600 and were more likely to do so in the presence of a local Huguenot community.
   <br> &nbsp; 
   </details> 
 
 
-**Access to Useful Knowledge and Economic Growth: Evidence from Enlightenment Encyclopedias** &thinsp; (dissertation chapter)
-  <details>   
-  <summary>Abstract</summary>  
-This paper shows that enlightenment encyclopedias contributed to accelerating economic growth during the Industrial Revolution by providing access to useful technological knowledge. 
-Drawing on novel city-level data from a trade directory of European booksellers in 1781, I first document (i) a robust positive association between city population growth from 1750 to 1850 and the number of booksellers per capita; (ii) that booksellers strongly predict city-level sales of two pivotal encyclopedias of useful knowledge; (iii) and that these sales mediate the association of city growth and booksellers. To isolate variation in the supply of encyclopedias, I consider the role of geographical proximity of booksellers to the encyclopedia's publishers, which affected the booksellers' wholesale access. 
-Specifically, I use the <i>interaction</i> of booksellers and proximity to the publisher, conditioning separately on booksellers and on proximity, to instrument for encyclopedia sales.
-The 2SLS results confirm that cities with better access to useful knowledge grew faster after 1750 but not before.
-  <br> &nbsp; 
-  </details> 
 
 **Networks, Modernization and Integration: Jewish Emancipation in
 Nineteenth-Century Prussia** &thinsp; with [Israel Eruchimovitch](https://sites.google.com/brown.edu/israel-eruchimovitch) and [Assaf Sarid](http://www.assafsarid.com/)
