@@ -9,7 +9,7 @@ layout: homepage
 I am an Assistant Professor in Economics (non-tenure track) at LMU Munich. Previously, I was a Postdoctoral Scholar in Economics at Northwestern University's Center for Economic History. I graduated Ph.D. in Economics (Dr. oec. publ.) from LMU Munich with a dissertation on "Enlightenment, Industrial Revolution, and the Knowledge Economy", which was awarded the [Alexander Gerschenkron Prize](https://eh.net/gerschenkron-prize-2/) of the Economic History Association. During my doctoral studies, I visited Northwestern University and Brown University.
 
 
-Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_Rosenberger_2025_09.pdf)]
+Bio: [[curriculum vitae](https://lukasrosenberger.github.io/download/CV_Rosenberger_2026_10.pdf)]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de) 
 
@@ -30,11 +30,11 @@ Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
 **Innovation Networks in the Industrial Revolution** 
 &thinsp; with [Walker Hanlon](http://walkerhanlon.com/) and [Carl Hallmann](https://cclemh.github.io/)
-  <br>  &ensp; [[New draft April 2026](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_2026_04.pdf)][[NBER Working Paper](https://www.nber.org/papers/w32875)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2026/working-paper/innovation-networks-industrial-revolution)]
+  <br>  &ensp; [[New draft October 2026](https://lukasrosenberger.github.io/download/rosenberger_hanlon_hallmann_2026_10.pdf)][[NBER Working Paper](https://www.nber.org/papers/w32875)] [[CESifo Working Paper](https://www.cesifo.org/en/publications/2026/working-paper/innovation-networks-industrial-revolution)]
 
   <details>   
   <summary>Abstract</summary>  
- We offer a new approach to understanding technological progress and economic growth during the Industrial Revolution using modern growth theory combined with detailed micro-data. We develop a multi-sector endogenous growth model that we use to study one leading theory of British advantage during the Industrial Revolution: knowledge access costs. We apply our model to patent data from Britain and France in order to estimate key parameters, including vectors of country and technology-specific knowledge access parameters. We validate our estimates and then use the model to study their implications during the transition to modern economic growth. We show that, relative to France, British inventors faced lower knowledge access barriers, a difference that generated meaningful growth rate differences on the transition path, even when accounting for cross-country knowledge and technology flows.
+We offer a new approach to understanding economic growth in historical settings, combining modern growth theory, micro data, and new measurement methods, and apply it to study growth in Britain and France during the Industrial Revolution. We extend the model from Liu and Ma (2023) to incorporate researcher allocations determined in decentralized markets subject to country-by-technology innovation frictions. We show how the model can be estimated using historical data, use counterfactual simulations to examine the sources of Britain’s growth advantage, and apply our estimates to evaluate Joel Mokyr's influential hypothesis that knowledge access costs shaped innovation during the Industrial Revolution.
   <br> &nbsp;
   </details>  
 
